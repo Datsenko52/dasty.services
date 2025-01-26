@@ -25,9 +25,9 @@ p1{
   text-align:left;
   font-size: 30px;
 }
-p2{
+p2,3,4{
   color:white;
-  text-align:center;
+  text-align: center;
   font-size: 25px;
 }
 
