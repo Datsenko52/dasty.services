@@ -79,10 +79,11 @@ footer {
 }
 
 }
-p1{
+h1{
   color:white;
+  text-align: left;
 }
-p2,p3,p4{
+h2,h3,h4{
   color:white;
   text-align: center;
 }
