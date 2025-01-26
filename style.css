@@ -30,3 +30,17 @@ p2{
   text-align:center;
   font-size: 25px;
 }
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+.icons a img {
+  transition: filter 0.3s ease;
+}
+
+.icons a img:hover {
+  filter: brightness(2);
+}
