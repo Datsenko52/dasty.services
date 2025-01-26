@@ -1,0 +1,21 @@
+header {
+  margin: 0;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  justify-content: flex-start;
+  gap: 20px
+}
+header img {
+  margin-right: 20px;
+}
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,h5 {
+  color: white;
+  text-align: center;
