@@ -63,12 +63,8 @@ footer {
   filter: brightness(2);
 }
 
-}
-h1{
-  color:white;
-  text-align: center;
-}
-h2,h3,h4{
+
+h1,h2,h3,h4{
   color:white;
   text-align: center;
 }
