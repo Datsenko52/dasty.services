@@ -23,4 +23,10 @@ h2,h5 {
 p1{
   color:white;
   text-align:left;
+  font-size: 30px;
+}
+p2{
+color:white;
+  text-align:center;
+  font-size: 25px;
 }
