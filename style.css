@@ -7,44 +7,6 @@ header {
   justify-content: flex-start;
   gap: 20px
 }
-header img {
-  margin-right: 20px;
-}
-body {
-  background-color: black;
-  margin: 0;
-  padding: 0;
-}
-h1,
-h2,h5 {
-  color: white;
-  text-align: center;
-}
-p1{
-  color:white;
-  text-align:left;
-  font-size: 30px;
-}
-p2,3,4{
-  color:white;
-  text-align: center;
-  font-size: 25px;
-}
-
-footer {
-  background-color: #222;
-  color: white;
-  text-align: center;
-  padding: 20px 0;
-  header {
-  margin: 0;
-  background-color: black;
-  display: flex;
-  align-items: center;
-  padding: 10px 20px;
-  justify-content: flex-start;
-  gap: 20px
-}
 
 header img {
   margin-right: 20px;
@@ -135,11 +97,6 @@ footer {
 p1{
   color:white;
 }
-}
-.icons a img {
-  transition: filter 0.3s ease;
-}
-
-.icons a img:hover {
-  filter: brightness(2);
-}
+p2,p3,p4{
+  color:white;
+  text-align: center;
